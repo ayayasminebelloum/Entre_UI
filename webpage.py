@@ -66,9 +66,9 @@ elif choice == "Past Events":
     
     # Placeholder content - replace with actual videos/photos
     st.title("This was one event we had hosted at one of the team member's house")
-    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image1.jpeg", width=300)
-    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image2.jpeg", width=300)
-    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image3.jpeg", width=300)
+    st.image("Image 1.jpeg", width=300)
+    st.image("Image 2.jpeg", width=300)
+    st.image("Image 3.jpeg", width=300)
     st.title("This was an uploaded video of a pilot run, we had done")
     st.video("WhatsApp Video 2024-05-22 at 19.39.34.mp4", format="video/mp4", start_time=0)
 
