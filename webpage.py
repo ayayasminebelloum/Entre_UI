@@ -52,7 +52,7 @@ choice = st.sidebar.selectbox("Menu", menu)
 # Define the Home page
 if choice == "Home":
     st.title("Welcome to Cooking Classes for University Students", anchor="home")
-    st.image("/Users/yasmine/Desktop/University/Enterprenuership/Screen Shot 2024-05-22 at 8.32.01 PM.png")
+    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/logo.png")
     st.write("""
     **Your Gateway to Affordable and Healthy Meal Preparation Skills!**
     
@@ -66,9 +66,9 @@ elif choice == "Past Events":
     
     # Placeholder content - replace with actual videos/photos
     st.title("This was one event we had hosted at one of the team member's house")
-    st.image("/Users/yasmine/Desktop/University/Enterprenuership/WhatsApp Image 2024-05-22 at 19.39.34.jpeg", width=300)
-    st.image("/Users/yasmine/Desktop/University/Enterprenuership/WhatsApp Image 2024-05-22 at 19.39.34 (1).jpeg", width=300)
-    st.image("/Users/yasmine/Desktop/University/Enterprenuership/WhatsApp Image 2024-05-22 at 19.39.34 (2).jpeg", width=300)
+    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image1.jpeg", width=300)
+    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image2.jpeg", width=300)
+    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image3.jpeg", width=300)
     st.title("This was an uploaded video of a pilot run, we had done")
     st.video("/Users/yasmine/Desktop/University/Enterprenuership/WhatsApp Video 2024-05-22 at 19.39.34.mp4", format="video/mp4", start_time=0)
 
