@@ -70,7 +70,7 @@ elif choice == "Past Events":
     st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image2.jpeg", width=300)
     st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/Image3.jpeg", width=300)
     st.title("This was an uploaded video of a pilot run, we had done")
-    st.video("/Users/yasmine/Desktop/University/Enterprenuership/WhatsApp Video 2024-05-22 at 19.39.34.mp4", format="video/mp4", start_time=0)
+    st.video("WhatsApp Video 2024-05-22 at 19.39.34.mp4", format="video/mp4", start_time=0)
 
 # Define the Subscriptions page
 elif choice == "Subscriptions":
