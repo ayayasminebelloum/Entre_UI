@@ -1,4 +1,4 @@
 streamlit
 Pillow
 qrcode
-st-aggrid
+streamlit-aggrid
