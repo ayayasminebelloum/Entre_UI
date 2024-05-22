@@ -52,7 +52,7 @@ choice = st.sidebar.selectbox("Menu", menu)
 # Define the Home page
 if choice == "Home":
     st.title("Welcome to Cooking Classes for University Students", anchor="home")
-    st.image("https://github.com/ayayasminebelloum/Entre_UI/raw/main/logo.png")
+    st.image("LOGO.png")
     st.write("""
     **Your Gateway to Affordable and Healthy Meal Preparation Skills!**
     
